@@ -1,8 +1,8 @@
 [![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
-<img align ="right" alt="Data Analysis" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_gifgraph.gif">
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aniket choudhury</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align ="right" alt="Data Analysis" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_gifgraph.gif" width="100%" align="center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketck&label=Profile%20views&color=0e75b6&style=flat" alt="aniketck" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketck&theme=" alt="aniketck" /></a> </p>
